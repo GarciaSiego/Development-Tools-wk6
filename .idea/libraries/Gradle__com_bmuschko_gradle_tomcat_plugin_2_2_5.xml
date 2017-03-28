@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bmuschko:gradle-tomcat-plugin:2.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-tomcat-plugin/2.2.5/b3f16d94f66df96d3806ab9f5583e4979a9cf712/gradle-tomcat-plugin-2.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-tomcat-plugin/2.2.5/c16d621711559938a129a4cc7ba1451c5aff3b49/gradle-tomcat-plugin-2.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

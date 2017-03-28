@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp_main.iml" group="rentelapp" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp_test.iml" group="rentelapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp2.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp2_main.iml" group="rentelapp2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rentelapp2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rentelapp2_test.iml" group="rentelapp2" />
     </modules>
   </component>
 </project>
