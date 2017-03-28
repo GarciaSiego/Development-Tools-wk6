@@ -32,7 +32,7 @@ dependencies {
 tasks.withType(Checkstyle) {
     reports {
         xml.enabled true
-        html.enabled true
+        html.enabled false
     }
 }
 //findbugs
@@ -40,6 +40,6 @@ tasks.withType(FindBugs) {
     reports {
         ignoreFailures = true // important
         xml.enabled true
-        html.enabled true
+        html.enabled false
     }
 }
